@@ -12,31 +12,33 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Self-organization",
+    "Limb Bud Development",
+    "Lymphocyte Interaction",
+    "Agent-based Modelling",
+    "GPU Computing"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "DSc in Systems Biology"
+  institution = "ETH Zürich"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Theoretical Physics"
+  institution = "University of Bern"
+  year = 2010
+
+[[education.courses]]
+  course = "BSc in Physics"
+  institution = "University of Bern"
   year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in how cells organize themselves to build complex structures and how cells work together to solve difficult tasks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+For my PhD I built and analysed a partial differential equation model of the feedback-loop between the main signalling centers that orchestrate limb bud development. Now I am studying cellular behavior in developmental processes and within lymph nodes employing statistical and agent-based models.
