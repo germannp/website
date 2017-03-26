@@ -1,4 +1,4 @@
-baseurl = "http://"
+baseurl = "http://philipp-germann.github.io"
 title = "Philipp Germann"
 copyright = "&copy; 2017 Philipp Germann"
 theme = "academic"
