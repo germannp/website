@@ -1,5 +1,5 @@
 +++
-date = "2011"
+date = "2011-10-13"
 image_preview = ""
 abstract_short = ""
 authors = ["Philipp Germann", "Dzianis Menshykau", "Simon Tanaka", "Dagmar Iber"]
