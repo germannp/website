@@ -9,12 +9,12 @@ url_video = ""
 url_dataset = ""
 selected = false
 highlight = true
-publication_short = "In *Proceedings of the COMSOL Conference*"
+publication_short = "*Proceedings of the COMSOL Conference*, 2011"
 url_code = ""
 math = false
 title = "Simulating Organogenesis in COMSOL"
 url_project = ""
-publication = "In *Proceedings of the 2011 COMSOL Conference in Stuttgart*"
+publication = "*Proceedings of the 2011 COMSOL Conference in Stuttgart*"
 url_slides = ""
 publication_types = ["1"]
 

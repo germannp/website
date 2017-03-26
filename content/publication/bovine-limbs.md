@@ -9,12 +9,12 @@ math = false
 url_project = ""
 date = "2014-07-03"
 image_preview = ""
-highlight = true
-abstract_short = "In *Nature*"
-publication = "In *Nature* 511, 46–51"
+highlight = false
+abstract_short = ""
+publication = "*Nature* 511, 46–51"
 authors = ["Javier Lopez-Rios", "Amandine Duchesne", "Dario Speziale", "Guillaume Andrey", "Kevin A. Peterson", "Philipp Germann", "Erkan Ünal", "Jing Liu", "Sandrine Floriot", "Sarah Barbey", "Yves Gallard", "Magdalena Müller-Gerbl", "Andrew D. Courtney", "Christophe Klopp", "Sabrina Rodriguez", "Robert Ivanek", "Christian Beisel", "Carol Wicking", "Dagmar Iber", "Benoit Robert", "Andrew P. McMahon", "Denis Duboule", "Rolf Zeller"]
 url_code = ""
-publication_short = ""
+publication_short = "*Nature*, 2014"
 url_slides = ""
 publication_types = ["2"]
 
