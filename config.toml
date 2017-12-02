@@ -1,4 +1,4 @@
-baseurl = "http://philipp-germann.github.io"
+baseurl = "http://germannp.github.io"
 title = "Philipp Germann"
 copyright = "&copy; 2017 Philipp Germann"
 theme = "academic"
@@ -20,11 +20,11 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Philipp Germann"
-  role = "Postdoc in Computational Biology"
-  organization = "Centre for Genomic Regulation"
-  organization_url = "http://www.crg.eu"
+  role = "Systems Biologist"
+  organization = "European Molecular Biology Laboratory"
+  organization_url = "http://www.embl.es"
   avatar = "portrait.jpg"
-  # email = "descht@crg.eu"
+  # email = "philipp.germann@embl.es"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
@@ -122,12 +122,6 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/PhGermann"
-
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
@@ -138,6 +132,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = "https://scholar.google.ch/citations?user=k5K9nukAAAAJ&hl=de"
 
+ [[params.social]]
+   icon = "twitter"
+   icon_pack = "fa"
+   link = "//twitter.com/PhGermann"
+
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
@@ -146,12 +145,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/philipp-germann"
+    link = "//github.com/germannp"
 
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:philipp.germann@crg.eu"
+    link = "mailto:philipp.germann@embl.es"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
