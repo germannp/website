@@ -41,4 +41,4 @@ weight = 1
 
 I am interested in how cells organize themselves to build complex structures and how cells work together to solve difficult tasks.
 
-For my PhD I built and analysed a partial differential equation model of the feedback-loop between the main signalling centers that orchestrate limb bud development. Now I am studying cellular behavior in developmental processes and within lymph nodes employing statistical and agent-based models.
+Currently I study such multi-cellular systems in developmental processes and within lymph nodes using statistical and agent-based models. Previously I built and analysed a partial differential equation model of the feedback-loop between the main signalling centers that orchestrate limb bud development. 
